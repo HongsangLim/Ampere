@@ -1,2 +1,0 @@
-# Ampere
-V = IR
